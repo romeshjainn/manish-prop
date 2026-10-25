@@ -9,13 +9,9 @@
  *   - "content needed" notes where business information is missing
  * and every page is marked `noindex` with a visible preview banner.
  *
- * Default: ON everywhere (dev and production).
- * Override with SHOW_DEMO_CONTENT=true|false in the environment.
+ * Hardcoded ON everywhere (no env var needed). Set to false to hide demo data.
  */
-const flag = process.env.SHOW_DEMO_CONTENT;
-
-export const previewMode: boolean =
-  flag === "false" ? false : true;
+export const previewMode: boolean = true;
 
 export const siteUrl: string = (
   process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
