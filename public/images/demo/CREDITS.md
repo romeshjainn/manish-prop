@@ -1,0 +1,30 @@
+# Illustrative preview photography
+
+Downloaded from Unsplash (https://unsplash.com/license). Used ONLY as illustrative imagery for demo/preview content.
+These photos do NOT show Manish Property projects. Replace with genuine project photography before launch.
+
+- brick-townhouse.jpg — https://unsplash.com/photos/1430285561322-7808604715df (images.unsplash.com/photo-1430285561322-7808604715df)
+- house-in-trees.jpg — https://unsplash.com/photos/1449844908441-8829872d2607 (images.unsplash.com/photo-1449844908441-8829872d2607)
+- apartment-balconies.jpg — https://unsplash.com/photos/1460317442991-0ec209397118 (images.unsplash.com/photo-1460317442991-0ec209397118)
+- glass-towers.jpg — https://unsplash.com/photos/1486406146926-c627a92ad1ab (images.unsplash.com/photo-1486406146926-c627a92ad1ab)
+- office-interior.jpg — https://unsplash.com/photos/1497366216548-37526070297c (images.unsplash.com/photo-1497366216548-37526070297c)
+- open-field.jpg — https://unsplash.com/photos/1500382017468-9049fed747ef (images.unsplash.com/photo-1500382017468-9049fed747ef)
+- living-room-plants.jpg — https://unsplash.com/photos/1502672260266-1c1ef2d93688 (images.unsplash.com/photo-1502672260266-1c1ef2d93688)
+- white-villa-pool.jpg — https://unsplash.com/photos/1512917774080-9991f1c4c750 (images.unsplash.com/photo-1512917774080-9991f1c4c750)
+- white-house-courtyard.jpg — https://unsplash.com/photos/1523217582562-09d0def993a6 (images.unsplash.com/photo-1523217582562-09d0def993a6)
+- construction-site.jpg — https://unsplash.com/photos/1541888946425-d81bb19240f5 (images.unsplash.com/photo-1541888946425-d81bb19240f5)
+- apartment-block-dark.jpg — https://unsplash.com/photos/1545324418-cc1a3fa10c00 (images.unsplash.com/photo-1545324418-cc1a3fa10c00)
+- living-room-bright.jpg — https://unsplash.com/photos/1560448204-e02f11c3d0e2 (images.unsplash.com/photo-1560448204-e02f11c3d0e2)
+- house-pool-palms.jpg — https://unsplash.com/photos/1564013799919-ab600027ffc6 (images.unsplash.com/photo-1564013799919-ab600027ffc6)
+- gabled-house-dusk.jpg — https://unsplash.com/photos/1568605114967-8130f3a36994 (images.unsplash.com/photo-1568605114967-8130f3a36994)
+- brick-apartments.jpg — https://unsplash.com/photos/1574362848149-11496d93a7c7 (images.unsplash.com/photo-1574362848149-11496d93a7c7)
+- modern-villa-pool.jpg — https://unsplash.com/photos/1580587771525-78b9dba3b914 (images.unsplash.com/photo-1580587771525-78b9dba3b914)
+- city-towers.jpg — https://unsplash.com/photos/1582407947304-fd86f028f716 (images.unsplash.com/photo-1582407947304-fd86f028f716)
+- living-room-gallery-wall.jpg — https://unsplash.com/photos/1600210492486-724fe5c67fb0 (images.unsplash.com/photo-1600210492486-724fe5c67fb0)
+- timber-house-facade.jpg — https://unsplash.com/photos/1600566753190-17f0baa2a6c3 (images.unsplash.com/photo-1600566753190-17f0baa2a6c3)
+- glass-living-stair.jpg — https://unsplash.com/photos/1600573472550-8090b5e0745e (images.unsplash.com/photo-1600573472550-8090b5e0745e)
+- modern-house-dusk.jpg — https://unsplash.com/photos/1600585154340-be6161a56a0c (images.unsplash.com/photo-1600585154340-be6161a56a0c)
+- white-villa-terrace.jpg — https://unsplash.com/photos/1600596542815-ffad4c1539a9 (images.unsplash.com/photo-1600596542815-ffad4c1539a9)
+- open-plan-living.jpg — https://unsplash.com/photos/1600607687939-ce8a6c25118c (images.unsplash.com/photo-1600607687939-ce8a6c25118c)
+- suburban-houses.jpg — https://unsplash.com/photos/1605146769289-440113cc3d00 (images.unsplash.com/photo-1605146769289-440113cc3d00)
+- white-villa-cantilever.jpg — https://unsplash.com/photos/1613490493576-7fde63acd811 (images.unsplash.com/photo-1613490493576-7fde63acd811)
